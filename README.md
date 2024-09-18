@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**lylaaron98/lylaaron98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 👋 Hello, I'm Aaron! <br>🎓 Final Year Computer Science Student <br>🚀 Frontend/ FullStack Development Enthusiast <br>🌱 Seeking Opportunities to Learn and Grow
 
