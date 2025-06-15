@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-👋 Hello, I'm Aaron! <br>🎓 Final Year Computer Science Student <br>🚀 Frontend/ FullStack Development Enthusiast <br>🌱 Seeking Opportunities to Learn and Grow
+👋 Hello, I'm Aaron! <br>🎓 Computer Science Graduate (Hons) <br>🚀 Frontend/ FullStack Development Enthusiast <br>🌱 Seeking Opportunities to Learn and Grow
 
 
 ## 🌐 Socials:
